@@ -1,0 +1,240 @@
+{
+    "products": [
+	{
+		"id": "product1",
+		"image": "1.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+	},
+    {
+		"id": "product2",
+		"image": "2.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product3",
+		"image": "3.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product4",
+		"image": "4.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product5",
+		"image": "5.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product6",
+		"image": "6.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product7",
+		"image": "7.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product8",
+		"image": "8.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product9",
+		"image": "9.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product10",
+		"image": "10.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product11",
+		"image": "11.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product12",
+		"image": "12.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product13",
+		"image": "13.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product14",
+		"image": "14.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product15",
+		"image": "15.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product16",
+		"image": "16.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product17",
+		"image": "17.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product18",
+		"image": "18.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product19",
+		"image": "19.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product20",
+		"image": "20.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product21",
+		"image": "21.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product22",
+		"image": "22.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product23",
+		"image": "23.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product24",
+		"image": "24.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product25",
+		"image": "25.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    },
+    {
+		"id": "product30",
+		"image": "30.jpg",
+		"name": "Зулейха открывает глаза",
+		"author": "Яхина Гузель",
+		"price": "479",
+		"style": "children",
+		"description":"zero"
+    }
+    
+    
+]
+}
